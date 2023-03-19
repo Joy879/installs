@@ -1,7 +1,7 @@
 ## Installation links and guides for each OS:
-* [Windows](https://github.com/Joy879/installs/blob/main/README.md###windows-installs)
-* [Mac](https://github.com/Joy879/installs/blob/main/README.md###mac-installs)
-* [Linux](https://github.com/Joy879/installs/blob/main/README.md###linux-installs)
+* [Windows](https://github.com/Joy879/installs/blob/main/README.md#windows-installs)
+* [Mac](https://github.com/Joy879/installs/blob/main/README.md#mac-installs)
+* [Linux](https://github.com/Joy879/installs/blob/main/README.md#linux-installs)
 
 
 
