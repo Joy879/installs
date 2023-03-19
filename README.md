@@ -1,3 +1,9 @@
+## Installation links and guides for each OS:
+* [Windows]()
+* [Mac]()
+* [Linux]()
+
+
 # Mac Installs
 
 
@@ -35,5 +41,5 @@
 | [Git](https://git-scm.com/download/linux)                      |[Git](https://git-scm.com/download/linux)  |
 
 
-![Vs-Code](https://user-images.githubusercontent.com/70502261/218309293-3300558d-7cfb-4e90-b952-73801c36633a.png)
-![Pycharm](https://user-images.githubusercontent.com/70502261/218309301-ff15bb5f-36e4-4ba7-b717-baa8f0c18da7.png)
+<!-- ![Vs-Code](https://user-images.githubusercontent.com/70502261/218309293-3300558d-7cfb-4e90-b952-73801c36633a.png)
+![Pycharm](https://user-images.githubusercontent.com/70502261/218309301-ff15bb5f-36e4-4ba7-b717-baa8f0c18da7.png) -->
