@@ -16,6 +16,16 @@
 | [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)| [Pycharm Community](https://www.jetbrains.com/help/pycharm/installation-guide.html#4c8e6d2e)        |
 | [Git](https://git-scm.com/download/win)                      |[Git](https://git-scm.com/download/win)  |
 
+
+
+
+
+
+
+
+
+
+
 ### Mac Installs
 
 
@@ -26,6 +36,17 @@
 | [VSCode](https://code.visualstudio.com/Download)            |[VSCode](https://code.visualstudio.com/docs/setup/mac)             |
 | [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=mac)| [Pycharm Community](https://www.jetbrains.com/help/pycharm/installation-guide.html#29b4ba76)        |
 | [Git](https://git-scm.com/download/mac)                      |[Git](https://git-scm.com/download/mac)  |
+
+
+
+
+
+
+
+
+
+
+
 ### Linux Installs
 
 
